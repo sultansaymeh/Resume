@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>Jonathan Doe | Web Designer, Director | name@yourdomain.com</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css"
+      media="all" />
+    <link rel="stylesheet" type="text/css" href="resume.css" media="all" />
+  </head>
+  <body>
+    <div id="doc2" class="yui-t7">
+      <div id="inner">
+        <div id="hd">
+          <div class="yui-gc">
+            <div class="yui-u first">
+              <h1>Sultan Saymeh</h1>
+              <h2>Computer Engineer,System admin </h2>
+            </div>
+            <div class="yui-u">
+              <div class="contact-info">
+                <h3><a id="pdf" href="#">Download PDF</a></h3>
+                <h3><a href="mailto:name@yourdomain.com">sultansaymeh@hotmail.com</a></h3>
+                <h3>(966) - 590201500</h3>
+              </div>
+              <!--// .contact-info --> </div>
+          </div>
+          <!--// .yui-gc --> </div>
+        <!--// hd -->
+        <div id="bd">
+          <div id="yui-main">
+            <div class="yui-b">
+              <div class="yui-gf">
+                <div class="yui-u first">
+                  <h2>Profile</h2>
+                </div>
+                <div class="yui-u">Experienced IT Support Specialist with over a
+                  decade of expertise in providing technical support, system
+                  troubleshooting, and IT infrastructure management. Proven
+                  ability to resolve complex technical issues, optimize IT
+                  resources, and deliver exceptional customer service. Adept at
+                  staying current with technological advancements and committed
+                  to enhancing IT systems to drive operational success.</div>
+              </div>
+              <!--// .yui-gf -->
+              <div class="yui-gf">
+                <div class="yui-u first">
+                  <h2>Skills</h2>
+                </div>
+                <div class="yui-u">
+                  <div class="talent">
+                    <h2>IT Support</h2>
+                    <p>Provided technical assistance, troubleshooting
+                      hardware/software issues, and ensuring smooth IT
+                      operations for end users.</p>
+                  </div>
+                  <div class="talent">
+                    <h2>System Admin</h2>
+                    <p>Managed user accounts, network configurations, security
+                      policies, and system upgrades to maintain optimal
+                      performance.</p>
+                  </div>
+                  <div class="talent">
+                    <h2>IT Infrastructure</h2>
+                    Oversaw network, servers, and security systems, ensuring
+                    reliability, scalability, and compliance with best
+                    practices.<!--// .yui-gf --> </div>
+                </div>
+              </div>
+              <div class="yui-gf">
+                <div class="yui-u first">
+                  <h2>Technical</h2>
+                </div>
+                <div class="yui-u">
+                  <ul class="talent">
+                    <li>IT Support</li>
+                    <li>Fortigate</li>
+                    <li class="last">Backup &amp; Disaster Recovery</li>
+                  </ul>
+                  <ul class="talent">
+                    <li>Azure</li>
+                    <li>Microsoft 365</li>
+                    <li class="last">Synology NAS</li>
+                  </ul>
+                  <ul class="talent">
+                    <li>Access Control</li>
+                    <li>Windows Server &amp; Active Directory</li>
+                    <li class="last">Network</li>
+                  </ul>
+                </div>
+              </div>
+              <!--// .yui-gf-->
+              <div class="yui-gf">
+                <div class="yui-u first">
+                  <h2>Experience</h2>
+                </div>
+                <!--// .yui-u -->
+                <div class="yui-u">
+                  <div class="job">
+                    <h2>Sherbiny</h2>
+                    <h4>2015-2024</h4>
+                    <p>As an <strong>IT Infrastructure Officer &amp; IT Support</strong>,
+                      I provided technical support to over 100 employees,
+                      ensuring seamless IT operations and minimizing downtime. I
+                      managed Microsoft 365, network security, Synology NAS, and
+                      FortiGate firewalls, enhancing system efficiency and
+                      security. Additionally, I played a key role in achieving
+                      the <strong>Aramco Cyber Security Compliance Certificate
+                        (CCC)</strong> and implementing a company-wide IT
+                      infrastructure upgrade.</p>
+                  </div>
+                  <div class="job">
+                    <h2>Apple Inc.</h2>
+                    <h4>2013-2015</h4>
+                    <p>As an <strong>IT Support Officer</strong>, I was
+                      responsible for installing, maintaining, and upgrading
+                      company IT systems. I provided on-site and remote
+                      technical support, ensuring smooth business operations.
+                      Additionally, I documented IT processes and assisted in
+                      system enhancements to improve overall efficiency and
+                      security</p>
+                  </div>
+                </div>
+                <!--// .yui-u --> </div>
+              <!--// .yui-gf -->
+              <div class="yui-gf last">
+                <div class="yui-u first">
+                  <h2>Education</h2>
+                </div>
+                <div class="yui-u">
+                  <h2>Al-Balqa Applied University </h2>
+                  <h3>Computer Systems Engineering<!--// .yui-gf --> </h3>
+                </div>
+              </div>
+            </div>
+            <!--// .yui-b --> </div>
+          <!--// yui-main --> </div>
+        <!--// bd -->
+        <div id="ft">
+          <p>Sultan Saymeh — <a href="mailto:name@yourdomain.com">sultansaymeh@hotmail.com</a>
+            — (966) - 590201500</p>
+        </div>
+        <!--// footer --> </div>
+      <!-- // inner -->
+    </div>
+    <!--// doc -->
+  </body>
+</html>
